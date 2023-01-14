@@ -1,0 +1,50 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Animais Fantásticos: Os Segredos de Dumbledore",
+      "ano": 2022,
+      "roteiro": "J.K. Rowling",
+      "imagem": "https://www.clickriomafra.com.br/emacite/wp-content/uploads/2022/04/Animais-Fant%C3%A1sticos-3-ser%C3%A1-exibido-no-Cineplus-Emacite-confira-a-programa%C3%A7%C3%A3o-1.jpg",
+      "produtoraId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Animais Fantásticos: Os Segredos de Dumbledore",
+      "ano": 2022,
+      "roteiro": "J.K. Rowling",
+      "imagem": "https:br.web.img2.acsta.net/r_1920_1000/pictures/22/02/17/19/57/3713932.jpg",
+      "produtoraId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Black Adam",
+      "ano": 2022,
+      "roteiro": "Adam Sztykiel, Rory Haines, Sohrab Noshirvani",
+      "imagem": "https://agenciadenoticias.uniceub.br/wp-content/uploads/2022/10/4920_capa.jpg",
+      "produtoraId": 4
+    }
+  ],
+  "produtoras": [
+    {
+      "id": 1,
+      "nome": "Warner Bros"
+    },
+    {
+        "id": 2,
+        "nome": "Paramount Pictures Studios"
+    },
+    {
+        "id": 3,
+        "nome": "Universal Pictures"
+    },
+    {
+        "id": 4,
+        "nome": "DC Films"
+    },
+    {
+        "id": 5,
+        "nome": "Marvel Studios"
+    }
+  ]
+}
